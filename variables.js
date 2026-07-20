@@ -1,3 +1,6 @@
+// freeCodeCamp JavaScript Practice
+// Topic: Variables and Strings
+
 console.log("Hi there!");
 console.log("I am excited to talk to you.");
 let bot;
